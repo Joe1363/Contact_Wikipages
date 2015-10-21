@@ -2,3 +2,4 @@
 
 A wiki-like contact list made with rails that lets to initially enter a name, phon number and e-mail address. You can then vieww the contact, add/edit/delete multiple phone number, as well as editing or deleing contacts.
 
+https://afternoon-headland-6713.herokuapp.com/contacts/1
